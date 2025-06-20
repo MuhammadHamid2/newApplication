@@ -53,3 +53,10 @@ div{
 #h{font-style: italic;
    text-transform: capitalize;
 }
+input:hover{
+    background-color: bisque;
+    color: chocolate;
+}
+button:active{
+    background-color: darkgoldenrod;
+}
