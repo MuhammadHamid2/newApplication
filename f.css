@@ -1,0 +1,55 @@
+html{
+    background-color: hsl(72, 100%, 50%);}
+h1{
+ text-transform: uppercase;
+    text-align: center;
+} 
+
+
+#to{
+    text-transform: capitalize;
+}
+
+
+#a{
+    text-indent: 1em;
+text-transform: capitalize;}
+
+#b{
+    text-indent: 1rem;
+    text-transform: capitalize;
+    }
+     #c{
+        text-transform: capitalize;
+        text-align: left;
+        text-decoration: double;
+     }
+
+     #d
+{
+    text-transform: lowercase;
+    text-indent: 1em;
+    word-spacing: 5px;
+}
+span{
+    text-transform: capitalize;
+}
+
+#e{
+    text-indent: 3em;
+}
+#z{
+    text-transform: capitalize;
+}
+#f{
+    text-indent: 60em;
+    text-transform: capitalize;
+}
+
+div{
+    text-indent: 68rem;
+    text-transform: capitalize;
+}
+#h{font-style: italic;
+   text-transform: capitalize;
+}
